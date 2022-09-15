@@ -11,7 +11,6 @@
 [Image Classification from Scratch](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/051_image_classification_from_scratch.ipynb)  
 [Visualizing What Convnets Learn](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/052_visualizing_what_convnets_learn.ipynb)  
 [Transfer Learning](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/053_transfer_learning.ipynb)  
-[Understanding Recurrent NeuralNetworks](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/060_understanding_recurrent_neural_networks.ipynb) 
+[Understanding Recurrent NeuralNetworks](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/060_understanding_recurrent_neural_networks.ipynb)   
 [Autoencoders](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/070_autoencoders.ipynb)  
 [Convolutional Variational Autoencoder.ipynb](https://colab.research.google.com/github/farrokhkarimi/tensorflow/blob/master/080_convolutional_variational_autoencoder.ipynb)  
-.
